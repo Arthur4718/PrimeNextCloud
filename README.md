@@ -8,5 +8,4 @@ Prime Nextcloud app for Android.
 * Added a new colo scheme using material design color tool. 
 * Added a standard cloud address for the customers on Prime Consultoria. 
 
-![App screenshots](/doc/appscreenshoots.png "App screenshots")
-
+![App screenshots](/doc/Nextcloud_Android_Screenshots.png "App screenshots")

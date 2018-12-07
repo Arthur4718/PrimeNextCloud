@@ -2,4 +2,4 @@
 
 
 
-![App Screenshots](https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png)
+![App Screenshots](https://i.imgur.com/wXecimh.png)

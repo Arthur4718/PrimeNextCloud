@@ -2,4 +2,4 @@
 
 
 
-![Image of Yaktocat](https://drive.google.com/file/d/1uAaP2KlKsi-MfWoY-iI2pK0EGeRtxrwg/view?usp=sharing)
+![App Screenshots](https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png)

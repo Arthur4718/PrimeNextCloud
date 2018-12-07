@@ -6,9 +6,12 @@ Applied layout changes for the Nextcloud, using Prime Cloud layout.
 ![App Screenshots](https://i.imgur.com/wXecimh.png)
 
 
-# Download apk 
+# Download apk. 
 
 [Click here to download the apk](https://drive.google.com/file/d/1tVk-R4A2UxyAlCbrZY4X_d2-u2cV_i1w/view?usp=sharing)
+
+
+
 
 
 # Changes Applied. 
